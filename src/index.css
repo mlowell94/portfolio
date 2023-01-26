@@ -434,7 +434,7 @@ a {
   }
 
   .profile img {
-    width: calc(150px + 10vw);
+    width: calc(175px + 7.5vw);
     height: calc(350px + 10vw);
   }
 
