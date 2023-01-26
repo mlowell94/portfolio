@@ -38,8 +38,8 @@ const projectData = {
     p5: {
         name: 'Portfolio',
         url: 'portfolio.gif',
-        git: 'google.com',
-        live: 'wikipedia.org',
+        git: 'https://github.com/mlowell94/portfolio',
+        live: 'https://mlowell94.github.io/portfolio/',
         desc: "This website! Built to host my projects and provide basic information about myself.",
         technologyIcons: ['css-3.svg', 'html-5.svg', 'javascript.svg', 'react.svg', 'react-router.svg', 'framer.svg'],
         animationID: 5
