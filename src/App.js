@@ -1,7 +1,7 @@
 import React, { useCallback } from 'react'
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
-import { BrowserRouter } from 'react-router-dom'
+import { BrowserRouter, HashRouter } from 'react-router-dom'
 import LittleGuy from './Components/LittleGuy'
 import Main from './Components/Main'
 import Nav from './Components/Nav'
@@ -14,7 +14,7 @@ const App = () => {
 
   }, []);
   return (
-    <BrowserRouter>
+    <HashRouter>
     <div className='all'>
       <div className='fade' id='one'></div>
       <div className='fade' id='two'></div>
@@ -71,7 +71,7 @@ const App = () => {
       <Main />
       <LittleGuy />
     </div>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
