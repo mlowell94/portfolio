@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.00f1ab50.css",
-    "main.js": "/portfolio/static/js/main.1559d5aa.js",
+    "main.css": "/portfolio/static/css/main.b930125d.css",
+    "main.js": "/portfolio/static/js/main.8ee70f42.js",
     "static/media/engage.gif": "/portfolio/static/media/engage.83b3b9e69a8a320fffb4.gif",
-    "static/media/battleship.gif": "/portfolio/static/media/battleship.19ec26d3e8ee77bed1e8.gif",
-    "static/media/recipe-book.gif": "/portfolio/static/media/recipe-book.bcc3ef0b79c14301cda7.gif",
-    "static/media/shopping-cart.gif": "/portfolio/static/media/shopping-cart.0f33e393622baa6b0c12.gif",
-    "static/media/weather-app.gif": "/portfolio/static/media/weather-app.92d11c7332582323bd1b.gif",
-    "static/media/cookbook.gif": "/portfolio/static/media/cookbook.d4cad18634c8572aad10.gif",
-    "static/media/portfolio.gif": "/portfolio/static/media/portfolio.9d6f51d6d27027a1078f.gif",
+    "static/media/battleship.webp": "/portfolio/static/media/battleship.0395c5b9025c992d3b9b.webp",
+    "static/media/engage.webp": "/portfolio/static/media/engage.d18e86d884cdeeed2b9c.webp",
+    "static/media/weather.webp": "/portfolio/static/media/weather.4a0b79469b4eb9ccb3b0.webp",
+    "static/media/shopping-cart.webp": "/portfolio/static/media/shopping-cart.c3dd9764abeb41d47a8d.webp",
     "static/media/rodin.otf": "/portfolio/static/media/rodin.3503afff0c6b252264cf.otf",
+    "static/media/cookbook.webp": "/portfolio/static/media/cookbook.caf5b18872d1ed0fd8a9.webp",
+    "static/media/portfolio.webp": "/portfolio/static/media/portfolio.64b5449fee54f76478a7.webp",
     "static/media/me.jpg": "/portfolio/static/media/me.660370a41ce25840b1c1.jpg",
-    "static/media/memory-card.gif": "/portfolio/static/media/memory-card.23fce49dcd767c86ea9e.gif",
+    "static/media/memory-card.webp": "/portfolio/static/media/memory-card.d7732ffbfe61c5b8b12c.webp",
     "static/media/slowpoke.png": "/portfolio/static/media/slowpoke.eece29900542822ae907.png",
     "static/media/Resume.pdf": "/portfolio/static/media/Resume.5a0a62aa904468a84b8e.pdf",
     "static/media/me.png": "/portfolio/static/media/me.71d86535890c7deaf403.png",
@@ -33,11 +33,11 @@
     "index.html": "/portfolio/index.html",
     "static/media/npm-icon.svg": "/portfolio/static/media/npm-icon.038ab7a217585f5789d00a81a6ea4746.svg",
     "static/media/framer.svg": "/portfolio/static/media/framer.2287efa09a38b7812787.svg",
-    "main.00f1ab50.css.map": "/portfolio/static/css/main.00f1ab50.css.map",
-    "main.1559d5aa.js.map": "/portfolio/static/js/main.1559d5aa.js.map"
+    "main.b930125d.css.map": "/portfolio/static/css/main.b930125d.css.map",
+    "main.8ee70f42.js.map": "/portfolio/static/js/main.8ee70f42.js.map"
   },
   "entrypoints": [
-    "static/css/main.00f1ab50.css",
-    "static/js/main.1559d5aa.js"
+    "static/css/main.b930125d.css",
+    "static/js/main.8ee70f42.js"
   ]
 }
