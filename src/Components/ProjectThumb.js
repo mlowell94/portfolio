@@ -3,6 +3,7 @@ import { motion } from 'framer-motion'
 
 const ProjectThumb = (props) => {
   const project = props.project;
+  console.log('../assets/' + project.url)
   return (
     <motion.div 
     initial={props.goBack === false ? {left: "100%", opacity: 0} : {left: "-100%", opacity: 0}}

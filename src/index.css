@@ -262,7 +262,7 @@ a {
 }
 
 .project-thumb img {
-  width: 500px;
+  min-width: 500px;
   height: 244px;
   border: solid black 1px;
   box-shadow: black 2px 2px 6px;
@@ -293,6 +293,7 @@ a {
   }
 
   .project-thumb img {
+    min-width: auto;
     width: 300px;
     height: 150px;
   }
@@ -369,6 +370,7 @@ a {
 }
 
 .icons img {
+  min-width: auto;
   width: 25px;
   height: 25px;
   border: none;
