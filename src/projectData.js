@@ -1,17 +1,10 @@
 const projectData = {
     p1: {
         name: 'Engage Estimator',
-<<<<<<< HEAD
         url: 'engage.webp',
         git: 'https://github.com/mlowell94/engage-estimator',
         live: 'https://mlowell94.github.io/engage-estimator/',
         desc: "An app for estimating character growths in Fire Emblem: Engage.",
-=======
-        url: 'engage.gif',
-        git: 'https://github.com/mlowell94/engage-estimator',
-        live: 'https://mlowell94.github.io/engage-estimator/',
-        desc: "An app for estimating character stats in Fire Emblem: Engage.",
->>>>>>> 633bc338e37ea4eabb86582cd315ed1330f08447
         technologyIcons: ['css-3.svg', 'html-5.svg', 'javascript.svg', 'react.svg'],
         animationID: 1
     },
