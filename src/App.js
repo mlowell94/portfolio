@@ -36,12 +36,12 @@ const App = () => {
               value: "#000000",
             },
             move: {
-              direction: "top-left",
+              direction: "top",
               enable: true,
               outModes: {
                 default: "out",
               },
-              speed: 2.5,
+              speed: 1.25,
               random: true,
               straight: true,
             },
