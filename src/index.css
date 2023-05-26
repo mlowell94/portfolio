@@ -201,8 +201,12 @@ h1 {
   border-top: solid #00000033 1px;
 }
 
-.project-thumb:nth-child(6) {
-  padding-bottom: 30px;
+.project-thumb:nth-child(1) {
+  padding-top: 14px;
+}
+
+.project-thumb:nth-child(7) {
+  padding-bottom: 28px;
 }
 
 .project-thumb h1 {
